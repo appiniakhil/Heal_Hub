@@ -25,10 +25,13 @@ HealHub is a comprehensive healthcare web application that brings patients and d
 
 To get started with HealHub, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/HealHub.git`
+1. **Clone the Repository**: `https://github.com/appiniakhil/Heal_Hub.git`
 
 2. **Install Dependencies**: Use 'npm i command'
    
 3. **Run the Application**: Start the server using 'npm run server' and go to client directory using 'cd client'.Now run commanf 'npm start'
 
 4.Visit `http://localhost:3000` in your web browser.
+
+## Home Page
+![image](https://github.com/appiniakhil/Heal_Hub/assets/91030529/3cf18313-9661-4ea2-97fc-143196e23e21)
