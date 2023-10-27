@@ -29,6 +29,6 @@ To get started with HealHub, follow these steps:
 
 2. **Install Dependencies**: Use 'npm i command'
    
-3. **Run the Application**: Start the server using 'npm run server' and go to client directory using cd client.Now run commanf 'npm start'
+3. **Run the Application**: Start the server using 'npm run server' and go to client directory using 'cd client'.Now run commanf 'npm start'
 
 4.Visit `http://localhost:3000` in your web browser.
